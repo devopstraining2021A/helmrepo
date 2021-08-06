@@ -3,7 +3,7 @@ entries:
   java-web-app:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2021-08-06T06:32:42.198183911Z"
+    created: "2021-08-06T06:49:07.818748445Z"
     description: A Helm chart for javawebapplication
     digest: b70346dacc320831ac8f121d3ff0163c3653bf3d1fbbb656f7d9b0a80396af99
     name: java-web-app
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://devopstraining2021a.github.io/helmrepo/java-web-app-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-06T06:32:42.196791557Z"
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-06T06:49:07.819817542Z"
+    description: A Helm chart for Kubernetes
+    digest: 2f72497c3a5570e01b400c626d02d880d2e92fbbb3d5aeb3c56fd72eedf573d0
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://devopstraining2021a.github.io/helmrepo/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-06T06:49:07.817280933Z"
